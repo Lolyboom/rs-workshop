@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Some text
 Changes from <main>
+=======
+Some text
+>>>>>>> add footer
